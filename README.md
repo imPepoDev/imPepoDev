@@ -12,7 +12,7 @@
 ###
 
  <!-- <img src="https://raw.githubusercontent.com/imPepoDev/imPepoDev/output/snake.svg" alt="Snake animation" /> -->
- ![Snake animation](https://github.com/imPepoDev/imPepoDev/blob/output/snake.svg)
+ <!-- ![Snake animation](https://github.com/imPepoDev/imPepoDev/blob/output/snake.svg) -->
 
 ###
 
