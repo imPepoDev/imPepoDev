@@ -39,7 +39,7 @@
 </div>
 
 <div align="center">
-  <p align="left">Beginner in Spring & React</p>
+  <p align="center">Beginner in Spring & React</p>
 </div>
 
 ###
